@@ -1,7 +1,46 @@
+
+.info-bg{
+    background-color: #264653;
+}
+
+.btn-bg-items{
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    color: white;
+
+}
+
 .grayphoto img{
     filter: grayscale(100%);
 }
 
-.filled{
-    color: #FFC014;
+.text-color{
+    color: #E76F51;
 }
+
+.card-text-color{
+    color: #6C6C6C;
+}
+
+.filled,.empty{
+    color: #E77C40;
+}
+
+.anchor-color{
+    color: #23A6F0;
+}
+
+.price-bg{
+    background-color: #649db3a3;
+}
+
+.btn-price{
+    color: white;
+    background-color: #E76F51;
+}
+
+
+
+
+
