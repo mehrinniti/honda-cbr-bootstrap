@@ -1,3 +1,7 @@
 .grayphoto img{
     filter: grayscale(100%);
 }
+
+.filled{
+    color: #FFC014;
+}
